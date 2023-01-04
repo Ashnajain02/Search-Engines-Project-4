@@ -1,0 +1,23 @@
+424 184 353
+424 184 353
+query6a	antony_and_cleopatra:1.0	452	[2, 1, 1]
+query6a	richard_iii:4.2	3237	[1, 12, 11]
+query6a	richard_iii:0.3	2425	[2, 4, 4]
+query6a	hamlet:2.0	1650	[1, 2, 5]
+query6a	midsummer_nights_dream:3.0	1845	[0, 9, 9]
+query6a	richard_iii:3.1	1128	[1, 1, 2]
+query6a	cymbeline:3.1	3700	[3, 4, 4]
+query6a	romeo_and_juliet:0.3	992	[0, 11, 1]
+query6a	merchant_of_venice:1.4	484	[0, 1, 2]
+query6a	macbeth:2.1	498	[0, 1, 2]
+
+query6b	midsummer_nights_dream:3.0	1845	[0, 9, 9]
+query6b	richard_iii:4.2	3237	[1, 12, 11]
+query6b	romeo_and_juliet:0.3	992	[0, 11, 1]
+query6b	antony_and_cleopatra:1.0	452	[2, 1, 1]
+query6b	richard_iii:0.3	2425	[2, 4, 4]
+query6b	cymbeline:4.3	1742	[0, 3, 6]
+query6b	romeo_and_juliet:4.0	745	[0, 2, 2]
+query6b	hamlet:2.0	1650	[1, 2, 5]
+query6b	twelfth_night:3.0	593	[0, 2, 1]
+query6b	merchant_of_venice:1.4	484	[0, 1, 2]
